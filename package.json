@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-cloud-webhook",
+  "version": "1.0.0",
+  "description": "Whatsapp Cloud Webhook nodejs backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.3.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.16.3",
+    "redis": "^3.1.2"
+  },
+  "keywords": [
+    "whatsapp",
+    "cloud",
+    "webhook"
+  ],
+  "author": "Anil Mathew",
+  "license": "ISC"
+}
